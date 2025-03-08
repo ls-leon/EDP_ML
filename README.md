@@ -1,12 +1,12 @@
-# Approximation de solutions d'EDP par réseaux de neurones
+# Approximation de solutions d'EDP par apprentissage automatique
 
 **Auteur** : Leon Lafosse
 
 ## Contexte
 
-Les méthodes classiques comme les différences finies sont souvent utilisées pour résoudre des équations aux dérivées partielles. Mais dès qu’on passe en haute dimension ou sur des domaines compliqués, elles deviennent coûteuses et difficiles à appliquer.  
-Ainsi, les réseaux de neurones pourraient constituer un atout car elles sont capables d’approximer des fonctions sans avoir besoin de maillage.
+Ce projet explore l’utilisation de techniques simples d’apprentissage automatique pour approximer les solutions d’équations différentielles partielles classiques comme l’équation de diffusion de chaleur et l’équation de Laplace.
+
 
 ## Problématique
 
-Peut-on utiliser les réseaux de neurones pour résoudre des EDP ? Dans quels cas cette approche est-elle plus efficace que les méthodes classiques ?
+Peut-on utiliser des techniques simples de machine learning (régression, KNN) pour approximer les solutionsd’EDP simples ?
