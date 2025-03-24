@@ -4,7 +4,7 @@
 
 ## Contexte
 
-Ce projet explore l’utilisation de méthodes de machine learning pour approximer les solutions d’équations différentielles partielles classiques comme l’équation de diffusion de chaleur et l’équation de Laplace.
+Ce projet explore l’utilisation de méthodes de machine learning pour approximer les solutions d’équations différentielles partielles classiques comme l’équation de diffusion de chaleur.
 
 
 ## Problématique
