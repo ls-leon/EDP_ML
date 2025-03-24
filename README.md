@@ -9,4 +9,4 @@ Ce projet explore l’utilisation de méthodes de machine learning pour approxim
 
 ## Problématique
 
-Peut-on utiliser des méthodes de machine learning (régression, KNN) pour approximer les solutionsd’EDP simples ?
+Peut-on utiliser des méthodes de machine learning pour approximer les solutions d’EDP ?
